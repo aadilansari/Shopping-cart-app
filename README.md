@@ -1,6 +1,6 @@
 # shop_cart
 
-A new Flutter project.
+A Shopping Cart app using Flutter. Used Bloc for state management.
 
 ## Getting Started
 
